@@ -1,2 +1,2 @@
 # nugget
-a place to get a nibble of your diet and workout progress along the way
+a place to get a nugget of your diet and workout progress along the way
